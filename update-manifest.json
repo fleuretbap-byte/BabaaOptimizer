@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "downloadUrl": "https://github.com/fleuretbap-byte/BabaaOptimizer/releases/download/v1.5.1/BabaaOptimizer-Setup.exe",
-  "sha256": "F842AFB529B570BF414A27026A8649D9D44BEC53D10CE386C960CC753B656642",
-  "releaseNotes": "Babaa Optimizer v1.5.1",
+  "sha256": "A59A339956FC368B7E88AFA4D6F4102FF60EA8BDAD54D3F6DA3F816B185958B9",
+  "releaseNotes": "Babaa Optimizer v1.6.0",
   "minimumWindowsBuild": "10240"
 }
