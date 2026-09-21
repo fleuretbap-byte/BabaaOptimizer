@@ -1,0 +1,7 @@
+﻿{
+    "releaseNotes":  "Centre processus securise, gestion du demarrage, score sante PC, graphiques 60 s, sante des disques et notifications premium.",
+    "sha256":  "",
+    "minimumWindowsBuild":  "10240",
+    "version":  "1.5.0",
+    "downloadUrl":  "https://YOUR-HOST/BabaaOptimizer-Setup.exe"
+}
